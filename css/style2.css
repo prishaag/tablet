@@ -254,7 +254,7 @@ transform: scale(1);
 }
 
 
-@media only screen and (min-width: 601px) and (max-width: 799px) {
+@media only screen and (min-width: 768px) and (max-width: 1081px) {
     #skip:focus {
       top: 0;
       visibility: visible;
@@ -328,7 +328,7 @@ transform: scale(1);
 
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 1082px) {
 #skip {
 position: absolute;
 color: hsl(210, 62%, 34%);
