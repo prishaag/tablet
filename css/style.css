@@ -221,7 +221,7 @@ body {
             display: flex;
             justify-content: center;
             align-items: center;
-            overflow-x: hidden; /* Hide horizontal overflow */
+            overflow-x: hidden; 
             margin: auto;
         }
         
